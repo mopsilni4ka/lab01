@@ -1,1 +1,3 @@
-Privet, ja Mark!
+Privet, ja M@rk!
+
+Kak dela?
